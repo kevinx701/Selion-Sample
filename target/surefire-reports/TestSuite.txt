@@ -1,0 +1,37 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 79, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 2.878 sec <<< FAILURE!
+simpleTestMethod(com.mycompany.myselion.sample.selion.SoftAssertionsTest)  Time elapsed: 0.061 sec  <<< FAILURE!
+java.lang.AssertionError: Multiple (3) soft assertion failures occurred [
+	1. AssertionError: Ensuring that falsy values are always falsy expected [false] but found [true]
+		at org.testng.Assert.fail(Assert.java:94)
+		at org.testng.Assert.failNotEquals(Assert.java:496)
+		at org.testng.Assert.assertFalse(Assert.java:63)
+		at org.testng.asserts.Assertion$3.doAssert(Assertion.java:130)
+		at com.paypal.selion.platform.asserts.SeLionSoftAssert.executeAssert(SeLionSoftAssert.java:100)
+		at com.paypal.selion.platform.asserts.SeLionSoftAssert.doAssert(SeLionSoftAssert.java:45)
+		at org.testng.asserts.Assertion.assertFalse(Assertion.java:127)
+		at com.paypal.selion.platform.asserts.SeLionAsserts.verifyFalse(SeLionAsserts.java:224)
+		at com.mycompany.myselion.sample.selion.SoftAssertionsTest.simpleTestMethod(SoftAssertionsTest.java:36)
+	2. AssertionError: Ensuring that the author of this test was Krishnan expected [Krishnan] but found [null]
+		at org.testng.Assert.fail(Assert.java:94)
+		at org.testng.Assert.failNotEquals(Assert.java:496)
+		at org.testng.Assert.assertEquals(Assert.java:116)
+		at org.testng.asserts.Assertion$8.doAssert(Assertion.java:175)
+		at com.paypal.selion.platform.asserts.SeLionSoftAssert.executeAssert(SeLionSoftAssert.java:100)
+		at com.paypal.selion.platform.asserts.SeLionSoftAssert.doAssert(SeLionSoftAssert.java:45)
+		at org.testng.asserts.Assertion.assertEquals(Assertion.java:172)
+		at com.paypal.selion.platform.asserts.SeLionAsserts.verifyEquals(SeLionAsserts.java:258)
+		at com.mycompany.myselion.sample.selion.SoftAssertionsTest.simpleTestMethod(SoftAssertionsTest.java:37)
+	3. AssertionError: Ensuring that Null values stay that way expected [null] but found [Rambo]
+		at org.testng.Assert.fail(Assert.java:94)
+		at org.testng.Assert.failNotSame(Assert.java:492)
+		at org.testng.Assert.assertNull(Assert.java:428)
+		at org.testng.asserts.Assertion$31.doAssert(Assertion.java:383)
+		at com.paypal.selion.platform.asserts.SeLionSoftAssert.executeAssert(SeLionSoftAssert.java:100)
+		at com.paypal.selion.platform.asserts.SeLionSoftAssert.doAssert(SeLionSoftAssert.java:45)
+		at org.testng.asserts.Assertion.assertNull(Assertion.java:380)
+		at com.paypal.selion.platform.asserts.SeLionAsserts.verifyNull(SeLionAsserts.java:338)
+		at com.mycompany.myselion.sample.selion.SoftAssertionsTest.simpleTestMethod(SoftAssertionsTest.java:38)
+

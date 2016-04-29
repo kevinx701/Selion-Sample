@@ -1,0 +1,1092 @@
+{
+  "reportSummary": {
+    "testMethodsSummary": {
+      "passed": 78,
+      "failed": 1,
+      "skipped": 0
+    },
+    "configurationMethodsSummary": {
+      "passed": 1,
+      "failed": 0,
+      "skipped": 0
+    }
+  },
+  "testMethods": [
+    {
+      "parameters": [
+        "CustomData{employeeName\u003d\u0027Simon Stewart\u0027, country\u003dUNITED_STATES}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "DataDrivenWithCustomTypesTest",
+      "methodName": "testExcelDataValues",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:17.707+08:00",
+      "endTime": "2016-04-29T14:35:17.808+08:00",
+      "logs": [
+        {
+          "message": "Running test for CustomData{employeeName\u003d\u0027Simon Stewart\u0027, country\u003dUNITED_STATES}"
+        }
+      ]
+    },
+    {
+      "parameters": [
+        "CustomData{employeeName\u003d\u0027Jim Evans\u0027, country\u003dUNITED_STATES}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "DataDrivenWithCustomTypesTest",
+      "methodName": "testExcelDataValues",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:17.817+08:00",
+      "endTime": "2016-04-29T14:35:17.826+08:00",
+      "logs": [
+        {
+          "message": "Running test for CustomData{employeeName\u003d\u0027Jim Evans\u0027, country\u003dUNITED_STATES}"
+        }
+      ]
+    },
+    {
+      "parameters": [
+        "CustomData{employeeName\u003d\u0027Francois Reynaud\u0027, country\u003dUNITED_STATES}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "DataDrivenWithCustomTypesTest",
+      "methodName": "testExcelDataValues",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:17.833+08:00",
+      "endTime": "2016-04-29T14:35:17.842+08:00",
+      "logs": [
+        {
+          "message": "Running test for CustomData{employeeName\u003d\u0027Francois Reynaud\u0027, country\u003dUNITED_STATES}"
+        }
+      ]
+    },
+    {
+      "parameters": [
+        "SimpleData{employeeId\u003d1, employeeName\u003d\u0027Simon Stewart\u0027}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "SimpleDataDrivenTest",
+      "methodName": "testExcelDataValues",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:17.876+08:00",
+      "endTime": "2016-04-29T14:35:17.884+08:00",
+      "logs": [
+        {
+          "message": "Running test for SimpleData{employeeId\u003d1, employeeName\u003d\u0027Simon Stewart\u0027}"
+        }
+      ]
+    },
+    {
+      "parameters": [
+        "SimpleData{employeeId\u003d2, employeeName\u003d\u0027Jim Evans\u0027}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "SimpleDataDrivenTest",
+      "methodName": "testExcelDataValues",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:17.890+08:00",
+      "endTime": "2016-04-29T14:35:17.897+08:00",
+      "logs": [
+        {
+          "message": "Running test for SimpleData{employeeId\u003d2, employeeName\u003d\u0027Jim Evans\u0027}"
+        }
+      ]
+    },
+    {
+      "parameters": [
+        "SimpleData{employeeId\u003d3, employeeName\u003d\u0027Francois Reynaud\u0027}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "SimpleDataDrivenTest",
+      "methodName": "testExcelDataValues",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:17.903+08:00",
+      "endTime": "2016-04-29T14:35:17.910+08:00",
+      "logs": [
+        {
+          "message": "Running test for SimpleData{employeeId\u003d3, employeeName\u003d\u0027Francois Reynaud\u0027}"
+        }
+      ]
+    },
+    {
+      "parameters": [
+        "SimpleData{employeeId\u003d1, employeeName\u003d\u0027Simon Stewart\u0027}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "SimpleDataDrivenWithSelectiveRowsTest",
+      "methodName": "testExcelDataValues",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:17.958+08:00",
+      "endTime": "2016-04-29T14:35:17.968+08:00",
+      "logs": [
+        {
+          "message": "Running test for SimpleData{employeeId\u003d1, employeeName\u003d\u0027Simon Stewart\u0027}"
+        }
+      ]
+    },
+    {
+      "parameters": [
+        "SimpleData{employeeId\u003d2, employeeName\u003d\u0027Jim Evans\u0027}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "SimpleDataDrivenWithSelectiveRowsTest",
+      "methodName": "testExcelDataValues",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.000+08:00",
+      "endTime": "2016-04-29T14:35:18.016+08:00",
+      "logs": [
+        {
+          "message": "Running test for SimpleData{employeeId\u003d2, employeeName\u003d\u0027Jim Evans\u0027}"
+        }
+      ]
+    },
+    {
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "SimpleDataDrivenWithSelectiveRowsTest",
+      "methodName": "testHowManyRowsWereRead",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.031+08:00",
+      "endTime": "2016-04-29T14:35:18.044+08:00"
+    },
+    {
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "SoftAssertionsTest",
+      "methodName": "simpleTestMethod",
+      "status": "Failed",
+      "startTime": "2016-04-29T14:35:18.054+08:00",
+      "endTime": "2016-04-29T14:35:18.088+08:00",
+      "exception": "class java.lang.AssertionError:Multiple (3) soft assertion failures occurred [\n\t1. AssertionError: Ensuring that falsy values are always falsy expected [false] but found [true]\n\t\tat org.testng.Assert.fail(Assert.java:94)\r\n\t\tat org.testng.Assert.failNotEquals(Assert.java:496)\r\n\t\tat org.testng.Assert.assertFalse(Assert.java:63)\r\n\t\tat org.testng.asserts.Assertion$3.doAssert(Assertion.java:130)\r\n\t\tat com.paypal.selion.platform.asserts.SeLionSoftAssert.executeAssert(SeLionSoftAssert.java:100)\r\n\t\tat com.paypal.selion.platform.asserts.SeLionSoftAssert.doAssert(SeLionSoftAssert.java:45)\r\n\t\tat org.testng.asserts.Assertion.assertFalse(Assertion.java:127)\r\n\t\tat com.paypal.selion.platform.asserts.SeLionAsserts.verifyFalse(SeLionAsserts.java:224)\r\n\t\tat com.mycompany.myselion.sample.selion.SoftAssertionsTest.simpleTestMethod(SoftAssertionsTest.java:36)\r\n\t2. AssertionError: Ensuring that the author of this test was Krishnan expected [Krishnan] but found [null]\n\t\tat org.testng.Assert.fail(Assert.java:94)\r\n\t\tat org.testng.Assert.failNotEquals(Assert.java:496)\r\n\t\tat org.testng.Assert.assertEquals(Assert.java:116)\r\n\t\tat org.testng.asserts.Assertion$8.doAssert(Assertion.java:175)\r\n\t\tat com.paypal.selion.platform.asserts.SeLionSoftAssert.executeAssert(SeLionSoftAssert.java:100)\r\n\t\tat com.paypal.selion.platform.asserts.SeLionSoftAssert.doAssert(SeLionSoftAssert.java:45)\r\n\t\tat org.testng.asserts.Assertion.assertEquals(Assertion.java:172)\r\n\t\tat com.paypal.selion.platform.asserts.SeLionAsserts.verifyEquals(SeLionAsserts.java:258)\r\n\t\tat com.mycompany.myselion.sample.selion.SoftAssertionsTest.simpleTestMethod(SoftAssertionsTest.java:37)\r\n\t3. AssertionError: Ensuring that Null values stay that way expected [null] but found [Rambo]\n\t\tat org.testng.Assert.fail(Assert.java:94)\r\n\t\tat org.testng.Assert.failNotSame(Assert.java:492)\r\n\t\tat org.testng.Assert.assertNull(Assert.java:428)\r\n\t\tat org.testng.asserts.Assertion$31.doAssert(Assertion.java:383)\r\n\t\tat com.paypal.selion.platform.asserts.SeLionSoftAssert.executeAssert(SeLionSoftAssert.java:100)\r\n\t\tat com.paypal.selion.platform.asserts.SeLionSoftAssert.doAssert(SeLionSoftAssert.java:45)\r\n\t\tat org.testng.asserts.Assertion.assertNull(Assertion.java:380)\r\n\t\tat com.paypal.selion.platform.asserts.SeLionAsserts.verifyNull(SeLionAsserts.java:338)\r\n\t\tat com.mycompany.myselion.sample.selion.SoftAssertionsTest.simpleTestMethod(SoftAssertionsTest.java:38)\r\n\t]",
+      "stacktrace": "java.lang.AssertionError: Multiple (3) soft assertion failures occurred [\n\t1. AssertionError: Ensuring that falsy values are always falsy expected [false] but found [true]\n\t\tat org.testng.Assert.fail(Assert.java:94)\r\n\t\tat org.testng.Assert.failNotEquals(Assert.java:496)\r\n\t\tat org.testng.Assert.assertFalse(Assert.java:63)\r\n\t\tat org.testng.asserts.Assertion$3.doAssert(Assertion.java:130)\r\n\t\tat com.paypal.selion.platform.asserts.SeLionSoftAssert.executeAssert(SeLionSoftAssert.java:100)\r\n\t\tat com.paypal.selion.platform.asserts.SeLionSoftAssert.doAssert(SeLionSoftAssert.java:45)\r\n\t\tat org.testng.asserts.Assertion.assertFalse(Assertion.java:127)\r\n\t\tat com.paypal.selion.platform.asserts.SeLionAsserts.verifyFalse(SeLionAsserts.java:224)\r\n\t\tat com.mycompany.myselion.sample.selion.SoftAssertionsTest.simpleTestMethod(SoftAssertionsTest.java:36)\r\n\t2. AssertionError: Ensuring that the author of this test was Krishnan expected [Krishnan] but found [null]\n\t\tat org.testng.Assert.fail(Assert.java:94)\r\n\t\tat org.testng.Assert.failNotEquals(Assert.java:496)\r\n\t\tat org.testng.Assert.assertEquals(Assert.java:116)\r\n\t\tat org.testng.asserts.Assertion$8.doAssert(Assertion.java:175)\r\n\t\tat com.paypal.selion.platform.asserts.SeLionSoftAssert.executeAssert(SeLionSoftAssert.java:100)\r\n\t\tat com.paypal.selion.platform.asserts.SeLionSoftAssert.doAssert(SeLionSoftAssert.java:45)\r\n\t\tat org.testng.asserts.Assertion.assertEquals(Assertion.java:172)\r\n\t\tat com.paypal.selion.platform.asserts.SeLionAsserts.verifyEquals(SeLionAsserts.java:258)\r\n\t\tat com.mycompany.myselion.sample.selion.SoftAssertionsTest.simpleTestMethod(SoftAssertionsTest.java:37)\r\n\t3. AssertionError: Ensuring that Null values stay that way expected [null] but found [Rambo]\n\t\tat org.testng.Assert.fail(Assert.java:94)\r\n\t\tat org.testng.Assert.failNotSame(Assert.java:492)\r\n\t\tat org.testng.Assert.assertNull(Assert.java:428)\r\n\t\tat org.testng.asserts.Assertion$31.doAssert(Assertion.java:383)\r\n\t\tat com.paypal.selion.platform.asserts.SeLionSoftAssert.executeAssert(SeLionSoftAssert.java:100)\r\n\t\tat com.paypal.selion.platform.asserts.SeLionSoftAssert.doAssert(SeLionSoftAssert.java:45)\r\n\t\tat org.testng.asserts.Assertion.assertNull(Assertion.java:380)\r\n\t\tat com.paypal.selion.platform.asserts.SeLionAsserts.verifyNull(SeLionAsserts.java:338)\r\n\t\tat com.mycompany.myselion.sample.selion.SoftAssertionsTest.simpleTestMethod(SoftAssertionsTest.java:38)\r\n\t]\r\n\tat com.paypal.selion.platform.asserts.SeLionSoftAssert.assertAll(SeLionSoftAssert.java:145)\r\n\tat com.paypal.selion.internal.platform.asserts.SeLionAssertsListener.afterInvocation(SeLionAssertsListener.java:77)\r\n\tat org.testng.internal.invokers.InvokedMethodListenerInvoker$InvokeAfterInvocationWithoutContextStrategy.callMethod(InvokedMethodListenerInvoker.java:100)\r\n\tat org.testng.internal.invokers.InvokedMethodListenerInvoker.invokeListener(InvokedMethodListenerInvoker.java:62)\r\n\tat org.testng.internal.Invoker.runInvokedMethodListeners(Invoker.java:552)\r\n\tat org.testng.internal.Invoker.invokeMethod(Invoker.java:696)\r\n\tat org.testng.internal.Invoker.invokeTestMethod(Invoker.java:821)\r\n\tat org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1131)\r\n\tat org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:124)\r\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)\r\n\tat org.testng.TestRunner.privateRun(TestRunner.java:773)\r\n\tat org.testng.TestRunner.run(TestRunner.java:623)\r\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:357)\r\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)\r\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)\r\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:259)\r\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)\r\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)\r\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1185)\r\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1110)\r\n\tat org.testng.TestNG.run(TestNG.java:1018)\r\n\tat org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:73)\r\n\tat org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:94)\r\n\tat org.apache.maven.surefire.Surefire.run(Surefire.java:169)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:606)\r\n\tat org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)\r\n\tat org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)\r\n",
+      "logs": [
+        {
+          "message": "Soft Assert [Ensuring that falsy values are always falsy] failed in simpleTestMethod()\njava.lang.AssertionError: Ensuring that falsy values are always falsy expected [false] but found [true]\r\n\tat org.testng.Assert.fail(Assert.java:94)\r\n\tat org.testng.Assert.failNotEquals(Assert.java:496)\r\n\tat org.testng.Assert.assertFalse(Assert.java:63)\r\n\tat org.testng.asserts.Assertion$3.doAssert(Assertion.java:130)\r\n\tat com.paypal.selion.platform.asserts.SeLionSoftAssert.executeAssert(SeLionSoftAssert.java:100)\r\n\tat com.paypal.selion.platform.asserts.SeLionSoftAssert.doAssert(SeLionSoftAssert.java:45)\r\n\tat org.testng.asserts.Assertion.assertFalse(Assertion.java:127)\r\n\tat com.paypal.selion.platform.asserts.SeLionAsserts.verifyFalse(SeLionAsserts.java:224)\r\n\tat com.mycompany.myselion.sample.selion.SoftAssertionsTest.simpleTestMethod(SoftAssertionsTest.java:36)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:606)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)\r\n\tat org.testng.internal.Invoker.invokeMethod(Invoker.java:639)\r\n\tat org.testng.internal.Invoker.invokeTestMethod(Invoker.java:821)\r\n\tat org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1131)\r\n\tat org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:124)\r\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)\r\n\tat org.testng.TestRunner.privateRun(TestRunner.java:773)\r\n\tat org.testng.TestRunner.run(TestRunner.java:623)\r\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:357)\r\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)\r\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)\r\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:259)\r\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)\r\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)\r\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1185)\r\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1110)\r\n\tat org.testng.TestNG.run(TestNG.java:1018)\r\n\tat org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:73)\r\n\tat org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:94)\r\n\tat org.apache.maven.surefire.Surefire.run(Surefire.java:169)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:606)\r\n\tat org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)\r\n\tat org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)\r\n"
+        },
+        {
+          "message": "Soft Assert [Ensuring that the author of this test was Krishnan] failed in simpleTestMethod()\njava.lang.AssertionError: Ensuring that the author of this test was Krishnan expected [Krishnan] but found [null]\r\n\tat org.testng.Assert.fail(Assert.java:94)\r\n\tat org.testng.Assert.failNotEquals(Assert.java:496)\r\n\tat org.testng.Assert.assertEquals(Assert.java:116)\r\n\tat org.testng.asserts.Assertion$8.doAssert(Assertion.java:175)\r\n\tat com.paypal.selion.platform.asserts.SeLionSoftAssert.executeAssert(SeLionSoftAssert.java:100)\r\n\tat com.paypal.selion.platform.asserts.SeLionSoftAssert.doAssert(SeLionSoftAssert.java:45)\r\n\tat org.testng.asserts.Assertion.assertEquals(Assertion.java:172)\r\n\tat com.paypal.selion.platform.asserts.SeLionAsserts.verifyEquals(SeLionAsserts.java:258)\r\n\tat com.mycompany.myselion.sample.selion.SoftAssertionsTest.simpleTestMethod(SoftAssertionsTest.java:37)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:606)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)\r\n\tat org.testng.internal.Invoker.invokeMethod(Invoker.java:639)\r\n\tat org.testng.internal.Invoker.invokeTestMethod(Invoker.java:821)\r\n\tat org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1131)\r\n\tat org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:124)\r\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)\r\n\tat org.testng.TestRunner.privateRun(TestRunner.java:773)\r\n\tat org.testng.TestRunner.run(TestRunner.java:623)\r\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:357)\r\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)\r\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)\r\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:259)\r\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)\r\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)\r\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1185)\r\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1110)\r\n\tat org.testng.TestNG.run(TestNG.java:1018)\r\n\tat org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:73)\r\n\tat org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:94)\r\n\tat org.apache.maven.surefire.Surefire.run(Surefire.java:169)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:606)\r\n\tat org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)\r\n\tat org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)\r\n"
+        },
+        {
+          "message": "Soft Assert [Ensuring that Null values stay that way] failed in simpleTestMethod()\njava.lang.AssertionError: Ensuring that Null values stay that way expected [null] but found [Rambo]\r\n\tat org.testng.Assert.fail(Assert.java:94)\r\n\tat org.testng.Assert.failNotSame(Assert.java:492)\r\n\tat org.testng.Assert.assertNull(Assert.java:428)\r\n\tat org.testng.asserts.Assertion$31.doAssert(Assertion.java:383)\r\n\tat com.paypal.selion.platform.asserts.SeLionSoftAssert.executeAssert(SeLionSoftAssert.java:100)\r\n\tat com.paypal.selion.platform.asserts.SeLionSoftAssert.doAssert(SeLionSoftAssert.java:45)\r\n\tat org.testng.asserts.Assertion.assertNull(Assertion.java:380)\r\n\tat com.paypal.selion.platform.asserts.SeLionAsserts.verifyNull(SeLionAsserts.java:338)\r\n\tat com.mycompany.myselion.sample.selion.SoftAssertionsTest.simpleTestMethod(SoftAssertionsTest.java:38)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:606)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)\r\n\tat org.testng.internal.Invoker.invokeMethod(Invoker.java:639)\r\n\tat org.testng.internal.Invoker.invokeTestMethod(Invoker.java:821)\r\n\tat org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1131)\r\n\tat org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:124)\r\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)\r\n\tat org.testng.TestRunner.privateRun(TestRunner.java:773)\r\n\tat org.testng.TestRunner.run(TestRunner.java:623)\r\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:357)\r\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)\r\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)\r\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:259)\r\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)\r\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)\r\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1185)\r\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1110)\r\n\tat org.testng.TestNG.run(TestNG.java:1018)\r\n\tat org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:73)\r\n\tat org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:94)\r\n\tat org.apache.maven.surefire.Surefire.run(Surefire.java:169)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:606)\r\n\tat org.apache.maven.surefire.booter.SurefireBooter.runSuitesInProcess(SurefireBooter.java:350)\r\n\tat org.apache.maven.surefire.booter.SurefireBooter.main(SurefireBooter.java:1021)\r\n"
+        }
+      ]
+    },
+    {
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "howToGetAllDataAsHashtable",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.150+08:00",
+      "endTime": "2016-04-29T14:35:18.285+08:00"
+    },
+    {
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "howToGetAllDataFromDocuments",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.297+08:00",
+      "endTime": "2016-04-29T14:35:18.330+08:00"
+    },
+    {
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "howToGetAllDataFromList",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.335+08:00",
+      "endTime": "2016-04-29T14:35:18.361+08:00"
+    },
+    {
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "howToGetAllDataFromMap",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.368+08:00",
+      "endTime": "2016-04-29T14:35:18.393+08:00"
+    },
+    {
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "howToGetAllDataFromStringList",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.398+08:00",
+      "endTime": "2016-04-29T14:35:18.412+08:00"
+    },
+    {
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "howToGetAllDataFromTaggedList",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.421+08:00",
+      "endTime": "2016-04-29T14:35:18.445+08:00"
+    },
+    {
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "howToGetDataByARangeOfIndexes",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.452+08:00",
+      "endTime": "2016-04-29T14:35:18.480+08:00"
+    },
+    {
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "howToGetDataByASingleIndex",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.484+08:00",
+      "endTime": "2016-04-29T14:35:18.500+08:00"
+    },
+    {
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "howToGetDataByASingleKey",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.503+08:00",
+      "endTime": "2016-04-29T14:35:18.517+08:00"
+    },
+    {
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "howToGetDataByIndividualAndRangeOfIndexes",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.520+08:00",
+      "endTime": "2016-04-29T14:35:18.544+08:00"
+    },
+    {
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "howToGetDataByMultipleIndexes",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.549+08:00",
+      "endTime": "2016-04-29T14:35:18.574+08:00"
+    },
+    {
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "howToGetDataByMultipleKeys",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.578+08:00",
+      "endTime": "2016-04-29T14:35:18.597+08:00"
+    },
+    {
+      "parameters": [
+        "{name\u003d1, email\u003duser1@paypal.com, txId\u003d10686626}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetAssociativeArray",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.611+08:00",
+      "endTime": "2016-04-29T14:35:18.615+08:00"
+    },
+    {
+      "parameters": [
+        "{name\u003d2, email\u003duser2@paypal.com, txId\u003d10686627}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetAssociativeArray",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.619+08:00",
+      "endTime": "2016-04-29T14:35:18.624+08:00"
+    },
+    {
+      "parameters": [
+        "{name\u003d1, email\u003duser1@paypal.com, txId\u003d10686626}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetAssociativeArrayOfArrays",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.635+08:00",
+      "endTime": "2016-04-29T14:35:18.640+08:00"
+    },
+    {
+      "parameters": [
+        "{name\u003d2, email\u003duser2@paypal.com, txId\u003d10686627}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetAssociativeArrayOfArrays",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.644+08:00",
+      "endTime": "2016-04-29T14:35:18.648+08:00"
+    },
+    {
+      "parameters": [
+        "[1, user1@paypal.com, 10686626]"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetAssociativeArrayOfLists",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.662+08:00",
+      "endTime": "2016-04-29T14:35:18.666+08:00"
+    },
+    {
+      "parameters": [
+        "[2, user2@paypal.com, 10686627]"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetAssociativeArrayOfLists",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.669+08:00",
+      "endTime": "2016-04-29T14:35:18.674+08:00"
+    },
+    {
+      "parameters": [
+        "UserInformation{name\u003d\u0027Nemo\u0027, password\u003d\u0027password\u0027, accountNumber\u003d78901, amount\u003d120.0, areaCode\u003d[AreaCode{areaCode\u003d\u0027501\u0027}, AreaCode{areaCode\u003d\u0027301\u0027}], bank\u003dBankInformation{name\u003d\u0027Well fargo\u0027, type\u003d\u0027savings\u0027, address\u003dAddressInformation{street\u003d\u002712 Pico st\u0027}}, phoneNumber\u003d\u00271-408-666-5508\u0027, preintTest\u003d10, isbooleanGood\u003dfalse, doubleTest\u003d1340.24, longTest\u003d599880, floatTest\u003d0.002, byteTest\u003d0}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetAssociativeArrayOfUsers",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.694+08:00",
+      "endTime": "2016-04-29T14:35:18.699+08:00"
+    },
+    {
+      "parameters": [
+        "UserInformation{name\u003d\u0027Rambo\u0027, password\u003d\u0027abc123\u0027, accountNumber\u003d123456, amount\u003d100.0, areaCode\u003d[AreaCode{areaCode\u003d\u0027501\u0027}, AreaCode{areaCode\u003d\u0027408\u0027}, AreaCode{areaCode\u003d\u0027650\u0027}], bank\u003dBankInformation{name\u003d\u0027BOA\u0027, type\u003d\u0027checking\u0027, address\u003dAddressInformation{street\u003d\u00271234 Elm st\u0027}}, phoneNumber\u003d\u00271-408-225-8040\u0027, preintTest\u003d12, isbooleanGood\u003dtrue, doubleTest\u003d12.5, longTest\u003d167045, floatTest\u003d12.5, byteTest\u003d0}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetAssociativeArrayOfUsers",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.703+08:00",
+      "endTime": "2016-04-29T14:35:18.709+08:00"
+    },
+    {
+      "parameters": [
+        "UserInformation{name\u003d\u0027Shifu\u0027, password\u003d\u0027abc124\u0027, accountNumber\u003d124567, amount\u003d200.5, areaCode\u003d[AreaCode{areaCode\u003d\u0027317\u0027}, AreaCode{areaCode\u003d\u0027301\u0027}, AreaCode{areaCode\u003d\u0027701\u0027}], bank\u003dBankInformation{name\u003d\u0027Well fargo\u0027, type\u003d\u0027savings\u0027, address\u003dAddressInformation{street\u003d\u002712 Pico st\u0027}}, phoneNumber\u003d\u00271-714-666-0043\u0027, preintTest\u003d14, isbooleanGood\u003dtrue, doubleTest\u003d13.5, longTest\u003d1234, floatTest\u003d13.5, byteTest\u003d0}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetAssociativeArrayOfUsers",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.713+08:00",
+      "endTime": "2016-04-29T14:35:18.717+08:00"
+    },
+    {
+      "parameters": [
+        "UserInformation{name\u003d\u0027Simba\u0027, password\u003d\u0027abc124\u0027, accountNumber\u003d1234567, amount\u003d300.75, areaCode\u003d[AreaCode{areaCode\u003d\u0027501\u0027}, AreaCode{areaCode\u003d\u0027301\u0027}, AreaCode{areaCode\u003d\u0027408\u0027}], bank\u003dBankInformation{name\u003d\u0027BOA\u0027, type\u003d\u0027checking\u0027, address\u003dAddressInformation{street\u003d\u00271234 Elm st\u0027}}, phoneNumber\u003d\u00271-213-580-6070\u0027, preintTest\u003d17, isbooleanGood\u003dfalse, doubleTest\u003d14.5, longTest\u003d456567, floatTest\u003d14.5, byteTest\u003d0}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetAssociativeArrayOfUsers",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.719+08:00",
+      "endTime": "2016-04-29T14:35:18.723+08:00"
+    },
+    {
+      "parameters": [
+        "UserInformation{name\u003d\u0027null\u0027, password\u003d\u0027null\u0027, accountNumber\u003d385749204, amount\u003dnull, areaCode\u003dnull, bank\u003dnull, phoneNumber\u003d\u0027null\u0027, preintTest\u003d0, isbooleanGood\u003dfalse, doubleTest\u003d0.0, longTest\u003d0, floatTest\u003d0.0, byteTest\u003d0}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetAssociativeArrayOfUsers",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.725+08:00",
+      "endTime": "2016-04-29T14:35:18.730+08:00"
+    },
+    {
+      "parameters": [
+        "UserInformation{name\u003d\u0027Nemo\u0027, password\u003d\u0027password\u0027, accountNumber\u003d78901, amount\u003d120.0, areaCode\u003d[AreaCode{areaCode\u003d\u0027501\u0027}, AreaCode{areaCode\u003d\u0027301\u0027}], bank\u003dBankInformation{name\u003d\u0027Well fargo\u0027, type\u003d\u0027savings\u0027, address\u003dAddressInformation{street\u003d\u002712 Pico st\u0027}}, phoneNumber\u003d\u00271-408-666-5508\u0027, preintTest\u003d10, isbooleanGood\u003dfalse, doubleTest\u003d1340.24, longTest\u003d599880, floatTest\u003d0.002, byteTest\u003d0}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetDataByIndex",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.746+08:00",
+      "endTime": "2016-04-29T14:35:18.749+08:00"
+    },
+    {
+      "parameters": [
+        "UserInformation{name\u003d\u0027Rambo\u0027, password\u003d\u0027abc123\u0027, accountNumber\u003d123456, amount\u003d100.0, areaCode\u003d[AreaCode{areaCode\u003d\u0027501\u0027}, AreaCode{areaCode\u003d\u0027408\u0027}, AreaCode{areaCode\u003d\u0027650\u0027}], bank\u003dBankInformation{name\u003d\u0027BOA\u0027, type\u003d\u0027checking\u0027, address\u003dAddressInformation{street\u003d\u00271234 Elm st\u0027}}, phoneNumber\u003d\u00271-408-225-8040\u0027, preintTest\u003d12, isbooleanGood\u003dtrue, doubleTest\u003d12.5, longTest\u003d167045, floatTest\u003d12.5, byteTest\u003d0}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetDataByIndex",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.752+08:00",
+      "endTime": "2016-04-29T14:35:18.756+08:00"
+    },
+    {
+      "parameters": [
+        "UserInformation{name\u003d\u0027Shifu\u0027, password\u003d\u0027abc124\u0027, accountNumber\u003d124567, amount\u003d200.5, areaCode\u003d[AreaCode{areaCode\u003d\u0027317\u0027}, AreaCode{areaCode\u003d\u0027301\u0027}, AreaCode{areaCode\u003d\u0027701\u0027}], bank\u003dBankInformation{name\u003d\u0027Well fargo\u0027, type\u003d\u0027savings\u0027, address\u003dAddressInformation{street\u003d\u002712 Pico st\u0027}}, phoneNumber\u003d\u00271-714-666-0043\u0027, preintTest\u003d14, isbooleanGood\u003dtrue, doubleTest\u003d13.5, longTest\u003d1234, floatTest\u003d13.5, byteTest\u003d0}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetDataByIndex",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.758+08:00",
+      "endTime": "2016-04-29T14:35:18.762+08:00"
+    },
+    {
+      "parameters": [
+        "UserInformation{name\u003d\u0027Simba\u0027, password\u003d\u0027abc124\u0027, accountNumber\u003d1234567, amount\u003d300.75, areaCode\u003d[AreaCode{areaCode\u003d\u0027501\u0027}, AreaCode{areaCode\u003d\u0027301\u0027}, AreaCode{areaCode\u003d\u0027408\u0027}], bank\u003dBankInformation{name\u003d\u0027BOA\u0027, type\u003d\u0027checking\u0027, address\u003dAddressInformation{street\u003d\u00271234 Elm st\u0027}}, phoneNumber\u003d\u00271-213-580-6070\u0027, preintTest\u003d17, isbooleanGood\u003dfalse, doubleTest\u003d14.5, longTest\u003d456567, floatTest\u003d14.5, byteTest\u003d0}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetDataByIndex",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.764+08:00",
+      "endTime": "2016-04-29T14:35:18.767+08:00"
+    },
+    {
+      "parameters": [
+        "UserInformation{name\u003d\u0027null\u0027, password\u003d\u0027null\u0027, accountNumber\u003d385749204, amount\u003dnull, areaCode\u003dnull, bank\u003dnull, phoneNumber\u003d\u0027null\u0027, preintTest\u003d0, isbooleanGood\u003dfalse, doubleTest\u003d0.0, longTest\u003d0, floatTest\u003d0.0, byteTest\u003d0}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetDataByIndex",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.769+08:00",
+      "endTime": "2016-04-29T14:35:18.773+08:00"
+    },
+    {
+      "parameters": [
+        "UserInformation{name\u003d\u0027Simba\u0027, password\u003d\u0027abc124\u0027, accountNumber\u003d1234567, amount\u003d300.75, areaCode\u003d[AreaCode{areaCode\u003d\u0027501\u0027}, AreaCode{areaCode\u003d\u0027301\u0027}, AreaCode{areaCode\u003d\u0027408\u0027}], bank\u003dBankInformation{name\u003d\u0027BOA\u0027, type\u003d\u0027checking\u0027, address\u003dAddressInformation{street\u003d\u00271234 Elm st\u0027}}, phoneNumber\u003d\u00271-213-580-6070\u0027, preintTest\u003d17, isbooleanGood\u003dfalse, doubleTest\u003d14.5, longTest\u003d456567, floatTest\u003d14.5, byteTest\u003d0}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetDataByIndex",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.777+08:00",
+      "endTime": "2016-04-29T14:35:18.780+08:00"
+    },
+    {
+      "parameters": [
+        "UserInformation{name\u003d\u0027Nemo\u0027, password\u003d\u0027password\u0027, accountNumber\u003d78901, amount\u003d120.0, areaCode\u003d[AreaCode{areaCode\u003d\u0027501\u0027}, AreaCode{areaCode\u003d\u0027301\u0027}], bank\u003dBankInformation{name\u003d\u0027Well fargo\u0027, type\u003d\u0027savings\u0027, address\u003dAddressInformation{street\u003d\u002712 Pico st\u0027}}, phoneNumber\u003d\u00271-408-666-5508\u0027, preintTest\u003d10, isbooleanGood\u003dfalse, doubleTest\u003d1340.24, longTest\u003d599880, floatTest\u003d0.002, byteTest\u003d0}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetDataByKeys",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.797+08:00",
+      "endTime": "2016-04-29T14:35:18.802+08:00"
+    },
+    {
+      "parameters": [
+        "UserInformation{name\u003d\u0027Rambo\u0027, password\u003d\u0027abc123\u0027, accountNumber\u003d123456, amount\u003d100.0, areaCode\u003d[AreaCode{areaCode\u003d\u0027501\u0027}, AreaCode{areaCode\u003d\u0027408\u0027}, AreaCode{areaCode\u003d\u0027650\u0027}], bank\u003dBankInformation{name\u003d\u0027BOA\u0027, type\u003d\u0027checking\u0027, address\u003dAddressInformation{street\u003d\u00271234 Elm st\u0027}}, phoneNumber\u003d\u00271-408-225-8040\u0027, preintTest\u003d12, isbooleanGood\u003dtrue, doubleTest\u003d12.5, longTest\u003d167045, floatTest\u003d12.5, byteTest\u003d0}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetDataByKeys",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.805+08:00",
+      "endTime": "2016-04-29T14:35:18.810+08:00"
+    },
+    {
+      "parameters": [
+        "UserInformation{name\u003d\u0027Shifu\u0027, password\u003d\u0027abc124\u0027, accountNumber\u003d124567, amount\u003d200.5, areaCode\u003d[AreaCode{areaCode\u003d\u0027317\u0027}, AreaCode{areaCode\u003d\u0027301\u0027}, AreaCode{areaCode\u003d\u0027701\u0027}], bank\u003dBankInformation{name\u003d\u0027Well fargo\u0027, type\u003d\u0027savings\u0027, address\u003dAddressInformation{street\u003d\u002712 Pico st\u0027}}, phoneNumber\u003d\u00271-714-666-0043\u0027, preintTest\u003d14, isbooleanGood\u003dtrue, doubleTest\u003d13.5, longTest\u003d1234, floatTest\u003d13.5, byteTest\u003d0}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetDataByKeys",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.813+08:00",
+      "endTime": "2016-04-29T14:35:18.816+08:00"
+    },
+    {
+      "parameters": [
+        "UserInformation{name\u003d\u0027Simba\u0027, password\u003d\u0027abc124\u0027, accountNumber\u003d1234567, amount\u003d300.75, areaCode\u003d[AreaCode{areaCode\u003d\u0027501\u0027}, AreaCode{areaCode\u003d\u0027301\u0027}, AreaCode{areaCode\u003d\u0027408\u0027}], bank\u003dBankInformation{name\u003d\u0027BOA\u0027, type\u003d\u0027checking\u0027, address\u003dAddressInformation{street\u003d\u00271234 Elm st\u0027}}, phoneNumber\u003d\u00271-213-580-6070\u0027, preintTest\u003d17, isbooleanGood\u003dfalse, doubleTest\u003d14.5, longTest\u003d456567, floatTest\u003d14.5, byteTest\u003d0}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetDataByKeys",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.818+08:00",
+      "endTime": "2016-04-29T14:35:18.822+08:00"
+    },
+    {
+      "parameters": [
+        "[string1, string2, string3]"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetDocumentSeparatedLists",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.833+08:00",
+      "endTime": "2016-04-29T14:35:18.836+08:00"
+    },
+    {
+      "parameters": [
+        "[string1, string2, string3]"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetDocumentSeparatedLists",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.840+08:00",
+      "endTime": "2016-04-29T14:35:18.843+08:00"
+    },
+    {
+      "parameters": [
+        "{item1\u003dstring1, item2\u003dstring2, item3\u003dstring3}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetDocumentSeparatedLists",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.851+08:00",
+      "endTime": "2016-04-29T14:35:18.854+08:00"
+    },
+    {
+      "parameters": [
+        "{item1\u003dstring1, item2\u003dstring2, item3\u003dstring3}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetDocumentSeparatedLists",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.858+08:00",
+      "endTime": "2016-04-29T14:35:18.861+08:00"
+    },
+    {
+      "parameters": [
+        "UserInformation{name\u003d\u0027Nemo\u0027, password\u003d\u0027password\u0027, accountNumber\u003d78901, amount\u003d120.0, areaCode\u003d[AreaCode{areaCode\u003d\u0027501\u0027}, AreaCode{areaCode\u003d\u0027301\u0027}], bank\u003dBankInformation{name\u003d\u0027Well fargo\u0027, type\u003d\u0027savings\u0027, address\u003dAddressInformation{street\u003d\u002712 Pico st\u0027}}, phoneNumber\u003d\u00271-408-666-5508\u0027, preintTest\u003d10, isbooleanGood\u003dfalse, doubleTest\u003d1340.24, longTest\u003d599880, floatTest\u003d0.002, byteTest\u003d0}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetDocumentSeparatedUsers",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.879+08:00",
+      "endTime": "2016-04-29T14:35:18.882+08:00"
+    },
+    {
+      "parameters": [
+        "UserInformation{name\u003d\u0027Rambo\u0027, password\u003d\u0027abc123\u0027, accountNumber\u003d123456, amount\u003d100.0, areaCode\u003d[AreaCode{areaCode\u003d\u0027501\u0027}, AreaCode{areaCode\u003d\u0027408\u0027}, AreaCode{areaCode\u003d\u0027650\u0027}], bank\u003dBankInformation{name\u003d\u0027BOA\u0027, type\u003d\u0027checking\u0027, address\u003dAddressInformation{street\u003d\u00271234 Elm st\u0027}}, phoneNumber\u003d\u00271-408-225-8040\u0027, preintTest\u003d12, isbooleanGood\u003dtrue, doubleTest\u003d12.5, longTest\u003d167045, floatTest\u003d12.5, byteTest\u003d0}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetDocumentSeparatedUsers",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.884+08:00",
+      "endTime": "2016-04-29T14:35:18.887+08:00"
+    },
+    {
+      "parameters": [
+        "UserInformation{name\u003d\u0027Shifu\u0027, password\u003d\u0027abc124\u0027, accountNumber\u003d124567, amount\u003d200.5, areaCode\u003d[AreaCode{areaCode\u003d\u0027317\u0027}, AreaCode{areaCode\u003d\u0027301\u0027}, AreaCode{areaCode\u003d\u0027701\u0027}], bank\u003dBankInformation{name\u003d\u0027Well fargo\u0027, type\u003d\u0027savings\u0027, address\u003dAddressInformation{street\u003d\u002712 Pico st\u0027}}, phoneNumber\u003d\u00271-714-666-0043\u0027, preintTest\u003d14, isbooleanGood\u003dtrue, doubleTest\u003d13.5, longTest\u003d1234, floatTest\u003d13.5, byteTest\u003d0}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetDocumentSeparatedUsers",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.891+08:00",
+      "endTime": "2016-04-29T14:35:18.895+08:00"
+    },
+    {
+      "parameters": [
+        "UserInformation{name\u003d\u0027Simba\u0027, password\u003d\u0027abc124\u0027, accountNumber\u003d1234567, amount\u003d300.75, areaCode\u003d[AreaCode{areaCode\u003d\u0027501\u0027}, AreaCode{areaCode\u003d\u0027301\u0027}, AreaCode{areaCode\u003d\u0027408\u0027}], bank\u003dBankInformation{name\u003d\u0027BOA\u0027, type\u003d\u0027checking\u0027, address\u003dAddressInformation{street\u003d\u00271234 Elm st\u0027}}, phoneNumber\u003d\u00271-213-580-6070\u0027, preintTest\u003d17, isbooleanGood\u003dfalse, doubleTest\u003d14.5, longTest\u003d456567, floatTest\u003d14.5, byteTest\u003d0}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetDocumentSeparatedUsers",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.897+08:00",
+      "endTime": "2016-04-29T14:35:18.900+08:00"
+    },
+    {
+      "parameters": [
+        "UserInformation{name\u003d\u0027null\u0027, password\u003d\u0027null\u0027, accountNumber\u003d385749204, amount\u003dnull, areaCode\u003dnull, bank\u003dnull, phoneNumber\u003d\u0027null\u0027, preintTest\u003d0, isbooleanGood\u003dfalse, doubleTest\u003d0.0, longTest\u003d0, floatTest\u003d0.0, byteTest\u003d0}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetDocumentSeparatedUsers",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.902+08:00",
+      "endTime": "2016-04-29T14:35:18.906+08:00"
+    },
+    {
+      "parameters": [
+        "UserInformation{name\u003d\u0027Simba\u0027, password\u003d\u0027abc124\u0027, accountNumber\u003d1234567, amount\u003d300.75, areaCode\u003d[AreaCode{areaCode\u003d\u0027501\u0027}, AreaCode{areaCode\u003d\u0027301\u0027}, AreaCode{areaCode\u003d\u0027408\u0027}], bank\u003dBankInformation{name\u003d\u0027BOA\u0027, type\u003d\u0027checking\u0027, address\u003dAddressInformation{street\u003d\u00271234 Elm st\u0027}}, phoneNumber\u003d\u00271-213-580-6070\u0027, preintTest\u003d17, isbooleanGood\u003dfalse, doubleTest\u003d14.5, longTest\u003d456567, floatTest\u003d14.5, byteTest\u003d0}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetDocumentSeparatedUsers",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.917+08:00",
+      "endTime": "2016-04-29T14:35:18.920+08:00"
+    },
+    {
+      "parameters": [
+        "string1"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetList",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.928+08:00",
+      "endTime": "2016-04-29T14:35:18.930+08:00"
+    },
+    {
+      "parameters": [
+        "string2"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetList",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.932+08:00",
+      "endTime": "2016-04-29T14:35:18.934+08:00"
+    },
+    {
+      "parameters": [
+        "string3"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetList",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.936+08:00",
+      "endTime": "2016-04-29T14:35:18.938+08:00"
+    },
+    {
+      "parameters": [
+        "{name\u003d1, email\u003duser1@paypal.com, txId\u003d10686626}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetListOfAssociativeArrays",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.945+08:00",
+      "endTime": "2016-04-29T14:35:18.949+08:00"
+    },
+    {
+      "parameters": [
+        "{name\u003d2, email\u003duser2@paypal.com, txId\u003d10686627}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetListOfAssociativeArrays",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.951+08:00",
+      "endTime": "2016-04-29T14:35:18.953+08:00"
+    },
+    {
+      "parameters": [
+        "{name\u003d1, email\u003duser1@paypal.com, txId\u003d10686626}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetListOfAssociativeArrays",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.957+08:00",
+      "endTime": "2016-04-29T14:35:18.961+08:00"
+    },
+    {
+      "parameters": [
+        "{name\u003d2, email\u003duser2@paypal.com, txId\u003d10686627}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetListOfAssociativeArrays",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.963+08:00",
+      "endTime": "2016-04-29T14:35:18.966+08:00"
+    },
+    {
+      "parameters": [
+        "{name\u003d1, email\u003duser1@paypal.com, txId\u003d10686626}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetListOfAssociativeArrays",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.967+08:00",
+      "endTime": "2016-04-29T14:35:18.970+08:00"
+    },
+    {
+      "parameters": [
+        "{name\u003d2, email\u003duser2@paypal.com, txId\u003d10686627}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetListOfAssociativeArrays",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.973+08:00",
+      "endTime": "2016-04-29T14:35:18.976+08:00"
+    },
+    {
+      "parameters": [
+        "[1, user1@paypal.com, 10686626]"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetListOfLists",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.982+08:00",
+      "endTime": "2016-04-29T14:35:18.984+08:00"
+    },
+    {
+      "parameters": [
+        "[2, user2@paypal.com, 10686627]"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetListOfLists",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.986+08:00",
+      "endTime": "2016-04-29T14:35:18.990+08:00"
+    },
+    {
+      "parameters": [
+        "UserInformation{name\u003d\u0027Nemo\u0027, password\u003d\u0027password\u0027, accountNumber\u003d78901, amount\u003d120.0, areaCode\u003d[AreaCode{areaCode\u003d\u0027501\u0027}, AreaCode{areaCode\u003d\u0027301\u0027}], bank\u003dBankInformation{name\u003d\u0027Well fargo\u0027, type\u003d\u0027savings\u0027, address\u003dAddressInformation{street\u003d\u002712 Pico st\u0027}}, phoneNumber\u003d\u00271-408-666-5508\u0027, preintTest\u003d10, isbooleanGood\u003dfalse, doubleTest\u003d1340.24, longTest\u003d599880, floatTest\u003d0.002, byteTest\u003d0}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetListOfUsers",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:19.001+08:00",
+      "endTime": "2016-04-29T14:35:19.004+08:00"
+    },
+    {
+      "parameters": [
+        "UserInformation{name\u003d\u0027Rambo\u0027, password\u003d\u0027abc123\u0027, accountNumber\u003d123456, amount\u003d100.0, areaCode\u003d[AreaCode{areaCode\u003d\u0027501\u0027}, AreaCode{areaCode\u003d\u0027408\u0027}, AreaCode{areaCode\u003d\u0027650\u0027}], bank\u003dBankInformation{name\u003d\u0027BOA\u0027, type\u003d\u0027checking\u0027, address\u003dAddressInformation{street\u003d\u00271234 Elm st\u0027}}, phoneNumber\u003d\u00271-408-225-8040\u0027, preintTest\u003d12, isbooleanGood\u003dtrue, doubleTest\u003d12.5, longTest\u003d167045, floatTest\u003d12.5, byteTest\u003d0}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetListOfUsers",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:19.006+08:00",
+      "endTime": "2016-04-29T14:35:19.009+08:00"
+    },
+    {
+      "parameters": [
+        "UserInformation{name\u003d\u0027Shifu\u0027, password\u003d\u0027abc124\u0027, accountNumber\u003d124567, amount\u003d200.5, areaCode\u003d[AreaCode{areaCode\u003d\u0027317\u0027}, AreaCode{areaCode\u003d\u0027301\u0027}, AreaCode{areaCode\u003d\u0027701\u0027}], bank\u003dBankInformation{name\u003d\u0027Well fargo\u0027, type\u003d\u0027savings\u0027, address\u003dAddressInformation{street\u003d\u002712 Pico st\u0027}}, phoneNumber\u003d\u00271-714-666-0043\u0027, preintTest\u003d14, isbooleanGood\u003dtrue, doubleTest\u003d13.5, longTest\u003d1234, floatTest\u003d13.5, byteTest\u003d0}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetListOfUsers",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:19.011+08:00",
+      "endTime": "2016-04-29T14:35:19.014+08:00"
+    },
+    {
+      "parameters": [
+        "UserInformation{name\u003d\u0027Simba\u0027, password\u003d\u0027abc124\u0027, accountNumber\u003d1234567, amount\u003d300.75, areaCode\u003d[AreaCode{areaCode\u003d\u0027501\u0027}, AreaCode{areaCode\u003d\u0027301\u0027}, AreaCode{areaCode\u003d\u0027408\u0027}], bank\u003dBankInformation{name\u003d\u0027BOA\u0027, type\u003d\u0027checking\u0027, address\u003dAddressInformation{street\u003d\u00271234 Elm st\u0027}}, phoneNumber\u003d\u00271-213-580-6070\u0027, preintTest\u003d17, isbooleanGood\u003dfalse, doubleTest\u003d14.5, longTest\u003d456567, floatTest\u003d14.5, byteTest\u003d0}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetListOfUsers",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:19.016+08:00",
+      "endTime": "2016-04-29T14:35:19.019+08:00"
+    },
+    {
+      "parameters": [
+        "UserInformation{name\u003d\u0027null\u0027, password\u003d\u0027null\u0027, accountNumber\u003d385749204, amount\u003dnull, areaCode\u003dnull, bank\u003dnull, phoneNumber\u003d\u0027null\u0027, preintTest\u003d0, isbooleanGood\u003dfalse, doubleTest\u003d0.0, longTest\u003d0, floatTest\u003d0.0, byteTest\u003d0}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetListOfUsers",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:19.021+08:00",
+      "endTime": "2016-04-29T14:35:19.024+08:00"
+    },
+    {
+      "parameters": [
+        "UserInformation{name\u003d\u0027Simba\u0027, password\u003d\u0027abc124\u0027, accountNumber\u003d1234567, amount\u003d300.75, areaCode\u003d[AreaCode{areaCode\u003d\u0027501\u0027}, AreaCode{areaCode\u003d\u0027301\u0027}, AreaCode{areaCode\u003d\u0027408\u0027}], bank\u003dBankInformation{name\u003d\u0027BOA\u0027, type\u003d\u0027checking\u0027, address\u003dAddressInformation{street\u003d\u00271234 Elm st\u0027}}, phoneNumber\u003d\u00271-213-580-6070\u0027, preintTest\u003d17, isbooleanGood\u003dfalse, doubleTest\u003d14.5, longTest\u003d456567, floatTest\u003d14.5, byteTest\u003d0}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetListOfUsers",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:19.026+08:00",
+      "endTime": "2016-04-29T14:35:19.029+08:00"
+    },
+    {
+      "parameters": [
+        "UserInformation{name\u003d\u0027Nemo\u0027, password\u003d\u0027password\u0027, accountNumber\u003d78901, amount\u003d120.0, areaCode\u003d[AreaCode{areaCode\u003d\u0027501\u0027}, AreaCode{areaCode\u003d\u0027301\u0027}], bank\u003dBankInformation{name\u003d\u0027Well fargo\u0027, type\u003d\u0027savings\u0027, address\u003dAddressInformation{street\u003d\u002712 Pico st\u0027}}, phoneNumber\u003d\u00271-408-666-5508\u0027, preintTest\u003d10, isbooleanGood\u003dfalse, doubleTest\u003d1340.24, longTest\u003d599880, floatTest\u003d0.002, byteTest\u003d0}",
+        "UserInformation{name\u003d\u0027Nemo\u0027, password\u003d\u0027password\u0027, accountNumber\u003d78901, amount\u003d120.0, areaCode\u003d[AreaCode{areaCode\u003d\u0027501\u0027}, AreaCode{areaCode\u003d\u0027301\u0027}], bank\u003dBankInformation{name\u003d\u0027Well fargo\u0027, type\u003d\u0027savings\u0027, address\u003dAddressInformation{street\u003d\u002712 Pico st\u0027}}, phoneNumber\u003d\u00271-408-666-5508\u0027, preintTest\u003d10, isbooleanGood\u003dfalse, doubleTest\u003d1340.24, longTest\u003d599880, floatTest\u003d0.002, byteTest\u003d0}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetMultipleArguments",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:19.050+08:00",
+      "endTime": "2016-04-29T14:35:19.054+08:00"
+    },
+    {
+      "parameters": [
+        "UserInformation{name\u003d\u0027Rambo\u0027, password\u003d\u0027abc123\u0027, accountNumber\u003d123456, amount\u003d100.0, areaCode\u003d[AreaCode{areaCode\u003d\u0027501\u0027}, AreaCode{areaCode\u003d\u0027408\u0027}, AreaCode{areaCode\u003d\u0027650\u0027}], bank\u003dBankInformation{name\u003d\u0027BOA\u0027, type\u003d\u0027checking\u0027, address\u003dAddressInformation{street\u003d\u00271234 Elm st\u0027}}, phoneNumber\u003d\u00271-408-225-8040\u0027, preintTest\u003d12, isbooleanGood\u003dtrue, doubleTest\u003d12.5, longTest\u003d167045, floatTest\u003d12.5, byteTest\u003d0}",
+        "UserInformation{name\u003d\u0027Rambo\u0027, password\u003d\u0027abc123\u0027, accountNumber\u003d123456, amount\u003d100.0, areaCode\u003d[AreaCode{areaCode\u003d\u0027501\u0027}, AreaCode{areaCode\u003d\u0027408\u0027}, AreaCode{areaCode\u003d\u0027650\u0027}], bank\u003dBankInformation{name\u003d\u0027BOA\u0027, type\u003d\u0027checking\u0027, address\u003dAddressInformation{street\u003d\u00271234 Elm st\u0027}}, phoneNumber\u003d\u00271-408-225-8040\u0027, preintTest\u003d12, isbooleanGood\u003dtrue, doubleTest\u003d12.5, longTest\u003d167045, floatTest\u003d12.5, byteTest\u003d0}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetMultipleArguments",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:19.056+08:00",
+      "endTime": "2016-04-29T14:35:19.059+08:00"
+    },
+    {
+      "parameters": [
+        "UserInformation{name\u003d\u0027Shifu\u0027, password\u003d\u0027abc124\u0027, accountNumber\u003d124567, amount\u003d200.5, areaCode\u003d[AreaCode{areaCode\u003d\u0027317\u0027}, AreaCode{areaCode\u003d\u0027301\u0027}, AreaCode{areaCode\u003d\u0027701\u0027}], bank\u003dBankInformation{name\u003d\u0027Well fargo\u0027, type\u003d\u0027savings\u0027, address\u003dAddressInformation{street\u003d\u002712 Pico st\u0027}}, phoneNumber\u003d\u00271-714-666-0043\u0027, preintTest\u003d14, isbooleanGood\u003dtrue, doubleTest\u003d13.5, longTest\u003d1234, floatTest\u003d13.5, byteTest\u003d0}",
+        "UserInformation{name\u003d\u0027Shifu\u0027, password\u003d\u0027abc124\u0027, accountNumber\u003d124567, amount\u003d200.5, areaCode\u003d[AreaCode{areaCode\u003d\u0027317\u0027}, AreaCode{areaCode\u003d\u0027301\u0027}, AreaCode{areaCode\u003d\u0027701\u0027}], bank\u003dBankInformation{name\u003d\u0027Well fargo\u0027, type\u003d\u0027savings\u0027, address\u003dAddressInformation{street\u003d\u002712 Pico st\u0027}}, phoneNumber\u003d\u00271-714-666-0043\u0027, preintTest\u003d14, isbooleanGood\u003dtrue, doubleTest\u003d13.5, longTest\u003d1234, floatTest\u003d13.5, byteTest\u003d0}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetMultipleArguments",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:19.061+08:00",
+      "endTime": "2016-04-29T14:35:19.064+08:00"
+    },
+    {
+      "parameters": [
+        "UserInformation{name\u003d\u0027Simba\u0027, password\u003d\u0027abc124\u0027, accountNumber\u003d1234567, amount\u003d300.75, areaCode\u003d[AreaCode{areaCode\u003d\u0027501\u0027}, AreaCode{areaCode\u003d\u0027301\u0027}, AreaCode{areaCode\u003d\u0027408\u0027}], bank\u003dBankInformation{name\u003d\u0027BOA\u0027, type\u003d\u0027checking\u0027, address\u003dAddressInformation{street\u003d\u00271234 Elm st\u0027}}, phoneNumber\u003d\u00271-213-580-6070\u0027, preintTest\u003d17, isbooleanGood\u003dfalse, doubleTest\u003d14.5, longTest\u003d456567, floatTest\u003d14.5, byteTest\u003d0}",
+        "UserInformation{name\u003d\u0027Simba\u0027, password\u003d\u0027abc124\u0027, accountNumber\u003d1234567, amount\u003d300.75, areaCode\u003d[AreaCode{areaCode\u003d\u0027501\u0027}, AreaCode{areaCode\u003d\u0027301\u0027}, AreaCode{areaCode\u003d\u0027408\u0027}], bank\u003dBankInformation{name\u003d\u0027BOA\u0027, type\u003d\u0027checking\u0027, address\u003dAddressInformation{street\u003d\u00271234 Elm st\u0027}}, phoneNumber\u003d\u00271-213-580-6070\u0027, preintTest\u003d17, isbooleanGood\u003dfalse, doubleTest\u003d14.5, longTest\u003d456567, floatTest\u003d14.5, byteTest\u003d0}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetMultipleArguments",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:19.066+08:00",
+      "endTime": "2016-04-29T14:35:19.068+08:00"
+    },
+    {
+      "parameters": [
+        "UserInformation{name\u003d\u0027null\u0027, password\u003d\u0027null\u0027, accountNumber\u003d385749204, amount\u003dnull, areaCode\u003dnull, bank\u003dnull, phoneNumber\u003d\u0027null\u0027, preintTest\u003d0, isbooleanGood\u003dfalse, doubleTest\u003d0.0, longTest\u003d0, floatTest\u003d0.0, byteTest\u003d0}",
+        "UserInformation{name\u003d\u0027null\u0027, password\u003d\u0027null\u0027, accountNumber\u003d385749204, amount\u003dnull, areaCode\u003dnull, bank\u003dnull, phoneNumber\u003d\u0027null\u0027, preintTest\u003d0, isbooleanGood\u003dfalse, doubleTest\u003d0.0, longTest\u003d0, floatTest\u003d0.0, byteTest\u003d0}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetMultipleArguments",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:19.071+08:00",
+      "endTime": "2016-04-29T14:35:19.074+08:00"
+    },
+    {
+      "parameters": [
+        "UserInformation{name\u003d\u0027Simba\u0027, password\u003d\u0027abc124\u0027, accountNumber\u003d1234567, amount\u003d300.75, areaCode\u003d[AreaCode{areaCode\u003d\u0027501\u0027}, AreaCode{areaCode\u003d\u0027301\u0027}, AreaCode{areaCode\u003d\u0027408\u0027}], bank\u003dBankInformation{name\u003d\u0027BOA\u0027, type\u003d\u0027checking\u0027, address\u003dAddressInformation{street\u003d\u00271234 Elm st\u0027}}, phoneNumber\u003d\u00271-213-580-6070\u0027, preintTest\u003d17, isbooleanGood\u003dfalse, doubleTest\u003d14.5, longTest\u003d456567, floatTest\u003d14.5, byteTest\u003d0}",
+        "UserInformation{name\u003d\u0027Simba\u0027, password\u003d\u0027abc124\u0027, accountNumber\u003d1234567, amount\u003d300.75, areaCode\u003d[AreaCode{areaCode\u003d\u0027501\u0027}, AreaCode{areaCode\u003d\u0027301\u0027}, AreaCode{areaCode\u003d\u0027408\u0027}], bank\u003dBankInformation{name\u003d\u0027BOA\u0027, type\u003d\u0027checking\u0027, address\u003dAddressInformation{street\u003d\u00271234 Elm st\u0027}}, phoneNumber\u003d\u00271-213-580-6070\u0027, preintTest\u003d17, isbooleanGood\u003dfalse, doubleTest\u003d14.5, longTest\u003d456567, floatTest\u003d14.5, byteTest\u003d0}"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetMultipleArguments",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:19.076+08:00",
+      "endTime": "2016-04-29T14:35:19.078+08:00"
+    },
+    {
+      "parameters": [
+        "string1",
+        "string1"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetStringList",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:19.085+08:00",
+      "endTime": "2016-04-29T14:35:19.087+08:00"
+    },
+    {
+      "parameters": [
+        "string2",
+        "string2"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetStringList",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:19.090+08:00",
+      "endTime": "2016-04-29T14:35:19.094+08:00"
+    },
+    {
+      "parameters": [
+        "string3",
+        "string3"
+      ],
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "testDataProviderGetStringList",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:19.095+08:00",
+      "endTime": "2016-04-29T14:35:19.098+08:00"
+    }
+  ],
+  "configurationMethods": [
+    {
+      "type": "BeforeClass",
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests",
+      "packageInfo": "com.mycompany.myselion.sample.selion",
+      "className": "YamlPoweredDataDrivenTest",
+      "methodName": "initializeTestDataForComparison",
+      "status": "Passed",
+      "startTime": "2016-04-29T14:35:18.127+08:00",
+      "endTime": "2016-04-29T14:35:18.134+08:00",
+      "description": ""
+    }
+  ],
+  "configSummary": {
+    "currentDate": "2016-04-29T14:35:17.429+08:00"
+  },
+  "localConfigSummary": [
+    {
+      "currentDate": "2016-04-29T14:35:17.443+08:00",
+      "suite": "SeLion Sample Tests",
+      "test": "DemoNonUITests"
+    }
+  ],
+  "reporterMetadata": {
+    "currentDate": {
+      "displayLabel": "Current Date"
+    }
+  }
+}
