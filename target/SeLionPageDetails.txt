@@ -1,2 +1,0 @@
-GUIData\sample\MyAppHomePage.yaml
-GUIData\sample\NativeAppTestPage.yaml
